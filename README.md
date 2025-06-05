@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/blockchain/blockchain.png" width="100" alt="Blockchain" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/ethereum/ethereum.png" width="100" alt="Ethereum" />
@@ -7,6 +8,7 @@
 # Hi there, I'm Basant 👋
 
 I'm an aspiring **Blockchain Developer** with a background in machine learning and system design. I'm honing my skills in smart contracts and cryptography to join a leading blockchain company.
+
 
 ## Skills & Interests
 
@@ -30,7 +32,6 @@ I'm an aspiring **Blockchain Developer** with a background in machine learning a
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=basantsd&theme=github-compact" alt="Activity Graph" />
 </p>
-
 <!---
 basantsd/basantsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
