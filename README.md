@@ -28,7 +28,6 @@ I'm an aspiring **Blockchain Developer** with a background in machine learning a
 - Machine Learning and AI
 - System Design
 
-- ## Hi, I'm Basant 👋
 **Solidity Smart Contract Developer | 5+ Years Backend Engineering → Web3**
 I build production-grade smart contracts and decentralized applications on Ethereum and EVM-compatible chains. With 5+ years of backend engineering experience (PHP/Laravel/Node.js) and IIT Kanpur Blockchain Certification, I bring both smart contract expertise and the system design depth that Web3 teams actually need.
 ### 🔗 What I Build
