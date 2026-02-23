@@ -28,6 +28,31 @@ I'm an aspiring **Blockchain Developer** with a background in machine learning a
 - Machine Learning and AI
 - System Design
 
+- ## Hi, I'm Basant 👋
+**Solidity Smart Contract Developer | 5+ Years Backend Engineering → Web3**
+I build production-grade smart contracts and decentralized applications on Ethereum and EVM-compatible chains. With 5+ years of backend engineering experience (PHP/Laravel/Node.js) and IIT Kanpur Blockchain Certification, I bring both smart contract expertise and the system design depth that Web3 teams actually need.
+### 🔗 What I Build
+- ⛓️ Smart Contracts — Solidity, ERC-20/721/1155, gas optimization
+- 🏦 DeFi Protocols — DEX, staking, yield farming, on-chain credit systems
+- 🌐 dApp Backends — Web3.js, Ethers.js, Next.js + Solidity
+- 🔐 Blockchain Security — auditable, secure contract architecture
+### 🚀 Featured Projects
+| Project | Description | Stack |
+|---|---|---|
+| [CircleSettle](https://github.com/basantsd/circlesettle) | Web3 bill-splitting dApp with on-chain credit scoring | Solidity, Next.js |
+| [PropChain](https://github.com/basantsd/propchain) | Blockchain real estate platform | TypeScript, Web3 |
+| [MyWealthMaster](https://github.com/basantsd/MyWealthMaster) | Decentralized finance tracker | TypeScript, Web3 |
+### 🛠️ Tech Stack
+**Blockchain:** Solidity · Smart Contracts · Hardhat · Foundry · Web3.js · Ethers.js · EVM  
+**Backend:** PHP · Laravel · Node.js · Python · REST APIs  
+**Cloud:** AWS · Docker · GitHub Actions · CI/CD  
+**DB:** PostgreSQL · MySQL · Redis
+### 📜 Certifications
+- 🏛️ IIT Kanpur — Program in Blockchain (2025)
+- ☁️ Google Cloud Operations (2025)
+📫 **Open to:** Senior Blockchain Developer | Smart Contract Developer roles  
+💼 **LinkedIn:** [linkedin.com/in/basantsd](https://linkedin.com/in/basantsd)
+
 ## GitHub Stats
 
 <p align="center">
