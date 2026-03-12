@@ -52,21 +52,7 @@ I build production-grade smart contracts and decentralized applications on Ether
 📫 **Open to:** Senior Blockchain Developer | Smart Contract Developer roles  
 💼 **LinkedIn:** [linkedin.com/in/basantsd](https://linkedin.com/in/basantsd)
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basantsd&show_icons=true&theme=merko" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basantsd&layout=compact&theme=merko" alt="Top languages" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basantsd&theme=merko" alt="GitHub streak" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basantsd&theme=github-compact" alt="Activity Graph" />
-
-</p>
 
 <!---
 basantsd/basantsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
