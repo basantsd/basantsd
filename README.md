@@ -90,13 +90,6 @@ The most architecturally complex project: a unified DeFi aggregator built by rea
 
 ---
 
-### [PayFi Haven Protocol](https://github.com/basantsd/payfihaven-protocol)
-> Solidity · Hardhat · ERC-20 · DeFi Payment Infrastructure
-
-Full DeFi Payment Protocol — multi-token payments, yield-bearing vaults, and on-chain settlement with gas-optimised execution paths.
-
----
-
 ### Nortech.app — On-Chain Credentialing Protocol
 > Hardhat · OpenZeppelin · ERC-20/721/1155 · UUPS Proxy · Sepolia
 
@@ -137,13 +130,6 @@ Minimal Real-World Asset tokenisation flow — fractional ownership and on-chain
 
 ---
 
-### Ripple Story — NFT Storytelling Platform
-> Solidity · React · Web3.js · ERC-721 · ERC-20
-
-Custom ERC-721 with on-chain metadata and royalty enforcement; custom ERC-20 Ripple Token reward system for community growth.
-
----
-
 ## Professional Experience
 
 **Blockchain Developer — Delta India** *(Dec 2024 – Present)*
@@ -170,7 +156,7 @@ Designed core backend for 4 SaaS platforms and 2 e-commerce sites; 24% improveme
 
 Actively seeking **Senior Solidity Developer**, **DeFi Protocol Engineer**, or **Smart Contract Auditor** roles — on-site, remote, or relocation considered.
 
-Connect: [linkedin.com/in/basantsd](https://linkedin.com/in/basantsd) · [sbasant12345@gmail.com](mailto:sbasant12345@gmail.com) · +91-9871802071
+Connect: [linkedin.com/in/basantsd](https://linkedin.com/in/basantsd)
 
 ---
 
