@@ -14,7 +14,6 @@
   <a href="https://linkedin.com/in/basantsd"><img src="https://img.shields.io/badge/LinkedIn-basantsd-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/basantdobal"><img src="https://img.shields.io/badge/Twitter-@basantdobal-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="mailto:sbasant12345@gmail.com"><img src="https://img.shields.io/badge/Email-sbasant12345@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=basantsd&style=flat-square&color=00D4FF&label=Profile+Views" />
 </p>
 
 ---
